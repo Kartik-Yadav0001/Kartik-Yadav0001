@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cybersecurity profile banner: replace this URL with your own uploaded banner if desired. -->
-<img src="assets/cybersecurity-banner.png" width="100%" alt="Kartik Yadav cybersecurity profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0D3B32,100:00D084&height=190&section=header&text=KARTIK%20YADAV&fontSize=42&fontColor=E8FFF4&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20NETWORK%20SECURITY&descAlignY=58&descSize=14" width="100%" alt="Kartik Yadav cybersecurity profile banner" />
 
 # `whoami` — Kartik Yadav 👋
 
